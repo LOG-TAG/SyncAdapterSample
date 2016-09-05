@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sync Demo</string>
+    <string name="account_type">com.naukri.syncsample</string>
+</resources>
